@@ -134,6 +134,33 @@ content:
         - Data Fluency: Exploring and Describing Data - (LinkedIn Learning)
         - Microsoft Technical Associate – (Microsoft)
         - Microsoft Office Specialist – (Microsoft)
+    - title: Certification
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - title: Data Analyst – DataCamp
+        description: |
+          Courses Completed: Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization
+      - title: Power BI/Tableau Essential Training
+        description: |
+          LinkedIn Learning - A comprehensive training program covering the essentials of Power BI and Tableau for effective data visualization.
+      - title: SQL: Data Reporting and Analysis
+        description: |
+          LinkedIn Learning - Training focused on SQL for data reporting and analysis, covering advanced querying and data manipulation techniques.
+      - title: Become a Data Analyst
+        description: |
+          LinkedIn Learning - A course designed to provide foundational knowledge and skills needed to pursue a career as a Data Analyst.
+      - title: Learning Data Visualization
+        description: |
+          LinkedIn Learning - Focused on key data visualization concepts and techniques, using tools like Power BI and Tableau.
+      - title: Data Fluency: Exploring and Describing Data
+        description: |
+          LinkedIn Learning - A course aimed at developing the ability to explore and describe data effectively to derive meaningful insights.
+      - title: Microsoft Technical Associate
+        description: |
+          Microsoft - A certification showcasing proficiency in various technical domains, including data-related topics.
+      - title: Microsoft Office Specialist
+        description: |
+        
 
 # Footer
 footer_show_references: true
