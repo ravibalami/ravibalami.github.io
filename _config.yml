@@ -125,18 +125,6 @@ content:
   - title: Certification
     layout: text
     content: | # this will include new lines to allow paragraphs
-        - Data Analyst – (DataCamp)
-            Courses Completed:  Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization
-        - Power BI/Tableau Essential Training - (LinkedIn Learning) 
-        - SQL: Data Reporting and Analysis - (LinkedIn Learning)
-        - Become a Data Analyst - (LinkedIn Learning)
-        - Learning Data Visualization - (LinkedIn Learning)
-        - Data Fluency: Exploring and Describing Data - (LinkedIn Learning)
-        - Microsoft Technical Associate – (Microsoft)
-        - Microsoft Office Specialist – (Microsoft)
-    - title: Certification
-    layout: text
-    content: | # this will include new lines to allow paragraphs
       - title: Data Analyst – DataCamp
         description: |
           Courses Completed: Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization
