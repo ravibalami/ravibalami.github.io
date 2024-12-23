@@ -8,8 +8,9 @@ version: 2
 # Personal info
 name: Ravi Balami
 title: Data Analyst
+#website: www.ravibalami.github.io
 email: ravibalami1@gmail.com
-website: https://ravibalami.github.io/
+email: ravibalami@hotmail.com
 
 # Dark Mode (true/false/never)
 darkmode: false
