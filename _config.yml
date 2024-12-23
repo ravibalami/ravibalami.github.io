@@ -93,7 +93,7 @@ content:
         title: Prime College
         caption: 2014 - 2018
         sub_title: BSc. Computer Science and Information Technology
-        #quote: >
+        quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           Relevant Coursework: Data Warehousing and Data Mining, Advanced Database Management System, Data Structures and Algorithms, Probability and Statistics, Statistics I/II, Numerical Methods, Linear Algebra, Discrete Structures, Technical Writing, OS, Software PM, Network and System Administration, Software Engineering, Cryptography, Network Security
