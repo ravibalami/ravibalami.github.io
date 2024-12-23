@@ -57,20 +57,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: ATM System with Facial Recognition
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+          #- title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+          #  url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This system is designed to provide an additional layer of security and convenience for users, allowing them to access their accounts and conduct transactions without the need for cards or passwords.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          In the ATM Facial Recognition System project, I utilized <mark>Python</mark> and the <mark>face_recognition library</mark> to implement facial recognition for secure, contactless user authentication. The system was built using <mark>OpenCV</mark> for image processing and deployed with <mark>Docker</mark> on <mark>AWS</mark> for scalability and high availability. Additionally, <mark>SSL/TLS protocols</mark> were implemented to secure user transactions, ensuring data privacy and integrity.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
