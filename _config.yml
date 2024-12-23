@@ -52,11 +52,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Data Analysis</mark> , <mark>SQL & Python</mark> and <mark>Data Visualization</mark>
 
-skills:
-  - layout: list
-    content:
+content:
+    - title: Skills
       - layout: left
-        title: Skills
         description: |
           **Data Visualization:** Tableau, Power BI, Excel, Google Sheets, Matplotlib, Seaborn  
           **Data Cleaning & Wrangling:** Pandas, NumPy  
