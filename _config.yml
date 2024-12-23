@@ -85,6 +85,7 @@ content:
           Skills in leadership, data organization, and problem-solving from my BOH Manager role directly support my ability to analyze data, optimize processes, and drive data-driven insights.
         description: | # this will include new lines to allow paragraphs
           As a BOH Manager, I gained transferable skills that align with my transition to a Data Analyst role. My experience in leadership and operations management enables effective collaboration and process optimization. I bring expertise in data organization, financial management, and problem-solving, skills essential for analyzing datasets, maintaining data integrity, and driving data-informed decisions. My attention to detail, honed through quality control, ensures accuracy in analysis, while my understanding of risk management supports compliance with data regulations like GDPR. These experiences have prepared me to thrive in analyzing data, optimizing processes, and delivering actionable insights.      - layout: left
+      - layout: left    
         title: CloudFactory
         link: https://www.cloudfactory.com/
         # link_text: boringcompany.com
