@@ -85,7 +85,17 @@ content:
           Skills in leadership, data organization, and problem-solving from my BOH Manager role directly support my ability to analyze data, optimize processes, and drive data-driven insights.
         description: | # this will include new lines to allow paragraphs
             As a BOH Manager, I developed a wide range of transferable skills that are highly applicable to my new role as a Data Analyst. My experience in leadership and team management will help me collaborate effectively across teams, while my ability to oversee operations, manage time efficiently, and ensure smooth workflows directly translates to managing data projects and optimizing processes. My background in data organization, such as managing inventory and stock levels, will assist in organizing and analyzing datasets, ensuring data integrity. Additionally, my experience with problem-solving and process improvement in high-pressure kitchen environments will be valuable for troubleshooting and optimizing data pipelines. I also bring expertise in financial management, including budgeting and cost analysis, which aligns with analyzing financial data and making data-driven decisions. My attention to detail, honed through quality control in food preparation, will ensure accuracy in data analysis, while my understanding of risk management and compliance translates well into managing data privacy and adhering to regulations like GDPR. Overall, the skills I gained as a BOH Manager will enable me to excel in my new role as a Data Analyst.
-
+    content:
+      - layout: left
+        title: CloudFactory
+        link: https://www.cloudfactory.com/
+        # link_text: boringcompany.com
+        sub_title: Security Data Analyst
+        caption: November 2018 - February 2022
+        quote: >
+          Skills in leadership, data organization, and problem-solving from my BOH Manager role directly support my ability to analyze data, optimize processes, and drive data-driven insights.
+        description: | # this will include new lines to allow paragraphs
+            As a BOH Manager, I developed a wide range of transferable skills that are highly applicable to my new role as a Data Analyst. My experience in leadership and team management will help me collaborate effectively across teams, while my ability to oversee operations, manage time efficiently, and ensure smooth workflows directly translates to managing data projects and optimizing processes. My background in data organization, such as managing inventory and stock levels, will assist in organizing and analyzing datasets, ensuring data integrity. Additionally, my experience with problem-solving and process improvement in high-pressure kitchen environments will be valuable for troubleshooting and optimizing data pipelines. I also bring expertise in financial management, including budgeting and cost analysis, which aligns with analyzing financial data and making data-driven decisions. My attention to detail, honed through quality control in food preparation, will ensure accuracy in data analysis, while my understanding of risk management and compliance translates well into managing data privacy and adhering to regulations like GDPR. Overall, the skills I gained as a BOH Manager will enable me to excel in my new role as a Data Analyst.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -97,7 +107,7 @@ content:
           
         description: | # this will include new lines to allow paragraphs
           Relevant Courseworks: Data Warehousing and Data Mining, Advanced Database Management System, Data Structures and Algorithms, Probability and Statistics, Statistics I/II, Numerical Methods, Linear Algebra, Discrete Structures, Technical Writing, OS, Software PM, Network and System Administration, Software Engineering, Cryptography, Network Security
-
+    
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
