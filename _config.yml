@@ -94,7 +94,7 @@ content:
         caption: 2014 - 2018
         sub_title: BSc. Computer Science and Information Technology
         quote: >
-          -
+          
         description: | # this will include new lines to allow paragraphs
           Relevant Courseworks: Data Warehousing and Data Mining, Advanced Database Management System, Data Structures and Algorithms, Probability and Statistics, Statistics I/II, Numerical Methods, Linear Algebra, Discrete Structures, Technical Writing, OS, Software PM, Network and System Administration, Software Engineering, Cryptography, Network Security
 
