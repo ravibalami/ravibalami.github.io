@@ -53,9 +53,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Data Analysis</mark> , <mark>SQL & Python</mark> and <mark>Data Visualization</mark>
 
 content:
-   - title: Skills
-      - layout: list
-      content: 
+  - title: Skills
+    layout: list
+    content: 
       - layout: top-middle
         description: |
           **Data Visualization:** Tableau, Power BI, Excel, Google Sheets, Matplotlib, Seaborn  
