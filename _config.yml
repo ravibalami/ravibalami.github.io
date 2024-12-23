@@ -122,10 +122,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Relevant Courseworks: Data Warehousing and Data Mining, Advanced Database Management System, Data Structures and Algorithms, Probability and Statistics, Statistics I/II, Numerical Methods, Linear Algebra, Discrete Structures, Technical Writing, OS, Software PM, Network and System Administration, Software Engineering, Cryptography, Network Security
     
-  - title: A Little More About Me
+  - title: Certification
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+        - Data Analyst – (DataCamp)
+            Courses Completed:  Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization
+        -	Power BI/Tableau Essential Training - (LinkedIn Learning) 
+        •	SQL: Data Reporting and Analysis - (LinkedIn Learning)
+        •	Become a Data Analyst - (LinkedIn Learning)
+        •	Learning Data Visualization - (LinkedIn Learning)
+        •	Data Fluency: Exploring and Describing Data - (LinkedIn Learning)
+        •	Microsoft Technical Associate – (Microsoft)
+        •	Microsoft Office Specialist – (Microsoft)
+
       - Rock climbing
       - Gaming
       - Knitting
