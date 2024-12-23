@@ -52,6 +52,22 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Data Analysis</mark> , <mark>SQL & Python</mark> and <mark>Data Visualization</mark>
 
+skills:
+  - layout: list
+    content:
+      - layout: left
+        title: Skills
+        description: |
+          **Data Visualization:** Tableau, Power BI, Excel, Google Sheets, Matplotlib, Seaborn  
+          **Data Cleaning & Wrangling:** Pandas, NumPy  
+          **Data Management:** MySQL, PostgreSQL, Microsoft SQL Server, Hadoop  
+          **Programming Languages:** Python, R, SQL, MATLAB, Julia, JavaScript, Scala, Bash, VBA, Java, HTML, CSS  
+          **Software Development & Tools:** Git, GitHub, JIRA, Docker, Kubernetes  
+          **Business Intelligence:** KPI Development, Dashboard Design, Reporting, Performance Metrics  
+          **Networking Protocols:** TCP/IP, DNS, HTTP, SSL/TLS, FTP, SMTP, Subnetting, VPNs, Firewalls, UDP, DHCP  
+          **Security Framework:** ISO 27001/27002, NIST, CIS, PCI DSS, SOC 2, HIPAA, GDPR  
+          **Operating Systems:** Windows, Linux, OS X, UNIX, iOS, Android
+          
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
