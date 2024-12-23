@@ -123,32 +123,18 @@ content:
           Relevant Courseworks: Data Warehousing and Data Mining, Advanced Database Management System, Data Structures and Algorithms, Probability and Statistics, Statistics I/II, Numerical Methods, Linear Algebra, Discrete Structures, Technical Writing, OS, Software PM, Network and System Administration, Software Engineering, Cryptography, Network Security
     
   - title: Certification
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - title: Data Analyst – DataCamp
+    layout: list
+    content: 
+      - layout: top-middle
         description: |
-          Courses Completed: Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization
-      - title: Power BI/Tableau Essential Training
-        description: |
-          LinkedIn Learning - A comprehensive training program covering the essentials of Power BI and Tableau for effective data visualization.
-      - title: SQL: Data Reporting and Analysis
-        description: |
-          LinkedIn Learning - Training focused on SQL for data reporting and analysis, covering advanced querying and data manipulation techniques.
-      - title: Become a Data Analyst
-        description: |
-          LinkedIn Learning - A course designed to provide foundational knowledge and skills needed to pursue a career as a Data Analyst.
-      - title: Learning Data Visualization
-        description: |
-          LinkedIn Learning - Focused on key data visualization concepts and techniques, using tools like Power BI and Tableau.
-      - title: Data Fluency: Exploring and Describing Data
-        description: |
-          LinkedIn Learning - A course aimed at developing the ability to explore and describe data effectively to derive meaningful insights.
-      - title: Microsoft Technical Associate
-        description: |
-          Microsoft - A certification showcasing proficiency in various technical domains, including data-related topics.
-      - title: Microsoft Office Specialist
-        description: |
-        
+          **Data Analyst:** DataCamp - Courses Completed: Intermediate Python, Intermediate Google Sheets, Python, Data Visualization, Relational Databases in SQL, Marketing Analytics, Error and Uncertainty, Statistics, Pandas, SQL Server, Pivot Tables, Data Visualization  
+          **Power BI/Tableau Essential Training:** LinkedIn Learning - A comprehensive training program covering the essentials of Power BI and Tableau for effective data visualization.  
+          **SQL: Data Reporting and Analysis:** LinkedIn Learning - Training focused on SQL for data reporting and analysis, covering advanced querying and data manipulation techniques.  
+          **Become a Data Analyst:** LinkedIn Learning - A course designed to provide foundational knowledge and skills needed to pursue a career as a Data Analyst.  
+          **Learning Data Visualization:** LinkedIn Learning - Focused on key data visualization concepts and techniques, using tools like Power BI and Tableau.
+          **Data Fluency: Exploring and Describing Data:** LinkedIn Learning - A course aimed at developing the ability to explore and describe data effectively to derive meaningful insights.  
+          **Microsoft Technical Associate:** Microsoft - A certification showcasing proficiency in various technical domains, including data-related topics.  
+          **Microsoft Office Specialist:** Microsoft - A certification demonstrating expertise in Microsoft Office tools, particularly Excel and other productivity applications for data analysis.
 
 # Footer
 footer_show_references: true
